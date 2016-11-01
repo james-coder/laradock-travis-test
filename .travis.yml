@@ -1,5 +1,8 @@
 language: php
 
+php:
+  - '7.0'
+
 env:
   # You may want to update this to whatever the latest version is, or keep it
   # the same as your local machines. However, I have only tested it with 1.8.0+.
